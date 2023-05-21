@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Uditmittal
-- 👀 I’m interested in Big Data Worls
+- 👀 I’m interested in Big Data World
 - 🌱 I’m Data Architect in LUMIQ.ai
 - 📫 How to reach me 
 
