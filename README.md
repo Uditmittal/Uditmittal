@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Uditmittal
-- 👀 I’m interested in Big Data World
-- 🌱 I’m Data Architect in LUMIQ.ai
-- 📫 How to reach me 
+- 🌱 Data Architect in LUMIQ.ai
 
 <!---
 Uditmittal/Uditmittal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
